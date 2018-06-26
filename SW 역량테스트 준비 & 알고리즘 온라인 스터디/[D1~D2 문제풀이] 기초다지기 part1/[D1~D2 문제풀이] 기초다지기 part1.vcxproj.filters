@@ -21,5 +21,20 @@
     <ClCompile Include="1926 간단한 369게임.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1933 간단한 N 의 약수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1936 1대1 가위바위보.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1938 아주 간단한 계산기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2019 더블더블.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2025 N줄덧셈.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

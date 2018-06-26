@@ -146,7 +146,22 @@
     <ClCompile Include="1859 백만 장자 프로젝트.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">yes</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="1926 간단한 369게임.cpp" />
+    <ClCompile Include="1926 간단한 369게임.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">yes</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="1933 간단한 N 의 약수.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">yes</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="1936 1대1 가위바위보.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">yes</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="1938 아주 간단한 계산기.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">yes</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="2019 더블더블.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">yes</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="2025 N줄덧셈.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
