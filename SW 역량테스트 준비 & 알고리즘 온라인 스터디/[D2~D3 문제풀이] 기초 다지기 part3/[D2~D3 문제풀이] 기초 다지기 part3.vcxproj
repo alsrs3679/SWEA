@@ -149,7 +149,13 @@
     <ClCompile Include="1206 View.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">yes</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="1208 Flatten.cpp" />
+    <ClCompile Include="1208 Flatten.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">yes</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="1209 Sum.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">yes</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="1213 String.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
