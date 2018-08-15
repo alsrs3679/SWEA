@@ -33,5 +33,8 @@
     <ClCompile Include="1225 암호생성기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1491 원재의 벽 꾸미기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

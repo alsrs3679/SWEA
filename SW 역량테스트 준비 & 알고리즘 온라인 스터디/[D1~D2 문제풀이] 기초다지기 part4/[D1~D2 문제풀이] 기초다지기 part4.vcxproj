@@ -159,9 +159,9 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">yes</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="1225 암호생성기.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-      </ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">yes</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="1491 원재의 벽 꾸미기.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
